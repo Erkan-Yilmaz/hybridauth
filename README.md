@@ -1,12 +1,12 @@
 # HybridAuth 2.0.11-dev
 
 HybridAuth enables developers to easily build social applications and tools 
-to engage websites vistors and customers on a social level by implementing 
+to engage website visitors and customers on a social level by implementing 
 social sign-in, social sharing, users profiles, friends list, activities 
 stream, status updates and more. 
 
 The main goal of HybridAuth is to act as an abstract API between your application
-and various social apis and identities providers such as Facebook, Twitter, 
+and various social APIs and identities providers such as Facebook, Twitter, 
 MySpace and Google.
 
 ## FEATURES 
@@ -14,7 +14,7 @@ MySpace and Google.
 - HybridAuth makes it easy to authenticate users with a wide variety of 
   well known social networks.
 - HybridAuth provides the connected user profiles in a rich, simple and 
-  standardized structure across all the social apis.
+  standardized structure across all the social APIs.
 - Besides authentication, HybridAuth enables you to interact with the 
   social API that the users are connected to in a simple way.
 - The complexity of implementing identity providers authentication and 
